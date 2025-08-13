@@ -38,8 +38,6 @@ This repository contains a structured nutritional dataset compiled from 20 popul
 ### 🛠️ Contributors:
 
 - **Mariam S. (Co-founder)**  
-  – Co-founded the project and helped define the scope and structure  
-  – Collected and structured nutritional data from 20 restaurants  
-  – Built the Russian-language dataset (`alamacros.csv`)  
-  – Translated and standardized the English dataset (`alamacros_en.csv`)  
-  – Standardized portion formats and dish naming
+  – Led end-to-end UI/UX design, building user flows that maximize clarity, accessibility, and engagement 
+  – Architected the data structure and curated nutritional datasets to ensure both precision and effortless developer integration
+  – Directed the project’s brand strategy, creating a distinctive name, visual identity, and communication style that positioned the product as a trusted local resource

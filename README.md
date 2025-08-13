@@ -38,6 +38,6 @@ This repository contains a structured nutritional dataset compiled from 20 popul
 ### 🛠️ Contributors:
 
 - **Mariam S. (Co-founder)**  
-  – Led end-to-end UI/UX design, building user flows that maximize clarity, accessibility, and engagement 
-  – Architected the data structure and curated nutritional datasets to ensure both precision and effortless developer integration
-  – Directed the project’s brand strategy, creating a distinctive name, visual identity, and communication style that positioned the product as a trusted local resource
+  –  Led end-to-end UI/UX design, building user flows that maximize clarity, accessibility, and engagement 
+  –  Architected the data structure and curated nutritional datasets to ensure both precision and effortless developer integration
+  –  Directed the project’s brand strategy, creating a distinctive name, visual identity, and communication style that positioned the product as a trusted local resource
